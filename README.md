@@ -1,2 +1,2 @@
 # hello-world
-my-project-garden
+ES6学习笔记
